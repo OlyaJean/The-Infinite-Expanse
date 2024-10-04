@@ -1,4 +1,4 @@
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import Footer from "./Components/Footer"
 import Hero from "./Components/Hero"
 import Navbar from "./Components/Navbar"
@@ -8,6 +8,11 @@ import Sidebar from "./Components/Sidebar"
 function App() {
 const [showModal,setShowModal] = useState(false)
 console.log(showModal)
+
+useEffect(()=>{
+  window.innerWidth >= 650 ? setShowModal(true): '';
+  console.log('complete');
+})
   return (
     <>
     <Navbar showModal={showModal} setShowModal={setShowModal}/>

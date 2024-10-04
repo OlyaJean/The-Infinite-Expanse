@@ -3,11 +3,9 @@ import closeModalIcon from './../assets/closeModal.png'
 
 const Sidebar = (props) => {
     const {showModal,setShowModal} = props;
-    window.addEventListener('DOMContentLoaded',()=>{
-        window.innerWidth >= 650 ? setShowModal(true): setShowModal(false)
-    })
 
- 
+    
+
     const sideModal = useRef();
     
   
