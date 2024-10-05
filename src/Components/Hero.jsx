@@ -1,9 +1,10 @@
 import React from 'react'
 import spaceImg from './../assets/space.jpeg'
-const Hero = () => {
+const Hero = (props) => {
+  const {data} = props
   return (
     <>
-      <img className='spaceImg' src={spaceImg} alt="" />
+      <img className='spaceImg' src={data.url} alt="" />
     </>
   )
 }

@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import closeModalIcon from './../assets/closeModal.png'
 
 const Sidebar = (props) => {
-    const {showModal,setShowModal} = props;
+    const {showModal,setShowModal,data} = props;
 
     
 
@@ -22,9 +22,9 @@ useEffect(()=>{
   
   return (
     <div ref={sideModal} className='sideBar'>
-      <h3>Title1</h3>
-      <h5>Description</h5>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus tenetur unde saepe explicabo autem eveniet beatae officiis, voluptatibus libero vitae molestiae omnis? Esse quos accusantium corporis sunt id dolore adipisci.</p>
+      <h3>{data.title}</h3>
+      <h5>{data.date}</h5>
+      <p>{data.explanation}</p>
       <img src={closeModalIcon} alt="" onClick={()=>{setShowModal(false)}}/>
 
     </div>
