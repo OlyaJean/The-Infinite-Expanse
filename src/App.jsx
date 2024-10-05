@@ -17,7 +17,7 @@ useEffect(()=>{
   window.innerWidth >= 650 ? setShowModal(true): '';
   console.log('complete');
 
-  const NASA_API_KEY = 'LJ3yeAqjpd8z1cHxpwELfOGJ8hv1eE32d9cGb8yW';
+  const NASA_API_KEY = 'LJ3yeAqW';
   
 
   async function fetchApiData(){
