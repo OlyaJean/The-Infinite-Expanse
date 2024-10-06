@@ -14,3 +14,4 @@ const Fact = (props) => {
 }
 
 export default Fact
+
