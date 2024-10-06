@@ -37,16 +37,16 @@ useEffect(()=>{
     const url = `https://api.nasa.gov/planetary/apod?api_key=${NASA_API_KEY}`
     const today = (new Date()).toDateString()
     const localKey = `NASA-${today}`
-    /*if(localStorage.getItem(localKey)){
+    if(localStorage.getItem(localKey)){
       const apiData = JSON.parse(localStorage.getItem(localKey))
       setData(apiData)
       return 
     }
-    localStorage.clear()*/
+    localStorage.clear()
    try{
     const response = await fetch(url);
     const apiData = await response.json();
-    //localStorage.setItem(localKey,JSON.stringify(apiData))
+    localStorage.setItem(localKey,JSON.stringify(apiData))
     setData(apiData);
    }catch(err){console.error('error')}
   }
