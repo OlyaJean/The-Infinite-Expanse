@@ -22,7 +22,7 @@ useEffect(()=>{
   
   return (
     <div ref={sideModal} className='sideBar'>
-      <h3>{data.title}</h3>
+      <h2>{data.title}</h2>
       <h5>{data.date}</h5>
       <p>{data.explanation}</p>
       <img src={closeModalIcon} alt="" onClick={()=>{setShowModal(false)}}/>

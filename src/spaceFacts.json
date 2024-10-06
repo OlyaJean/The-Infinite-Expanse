@@ -1,0 +1,145 @@
+[{"id":1,
+"fact": "The Great Red Spot: This enormous anticyclone in Jupiter's atmosphere has been known for over 200 years."},{
+    "id":2,
+    "fact":"Mars has blue sunsets: The blue light penetrates the Martian atmosphere more efficiently than red light, resulting in dull sunsets."
+},
+{
+    "id":3,
+    "fact":"Rings around multiple planets: Saturn isn't the only planet with rings, as Jupiter, Uranus, and Neptune also have them."
+},
+{
+    "id":4,
+    "fact":"Saturn's hexagonal storm: The north polar jet stream on Saturn spins in a way that creates a six-sided figure."
+},
+{
+    "id":5,
+    "fact":"Mercury is shrinking: The smallest planet in our solar system is shrinking because its iron core is cooling down."
+},
+{
+    "id":6,
+    "fact":"Venus is the hottest planet: The average surface temperature of Venus is around 450°C."
+},
+{
+    "id":7,
+    "fact":"The Sun's mass: The Sun's mass makes up 99.86% of the solar system."
+},
+{
+    "id":8,
+    "fact":"The Universe: 95% of the Universe is invisible, and the Universe has the same temperature everywhere."
+},
+{
+    "id":9,
+    "fact":"Black holes: Every galaxy has a supermassive black hole at its center."
+},
+{
+    "id":10,
+    "fact":"All planets in the solar system have been visited by uncrewed spacecraft. Venus was the first planet to be visited by a spacecraft in 1962."
+},
+{
+    "id":11,
+    "fact":"Scientists at the time stated that the planet, designated 55 Cancri e, is “perhaps covered in diamond, rather than water and rock.” "
+},
+{
+    "id":12,
+    "fact":"There is floating water in space. Astronomers have found a massive water vapor cloud that holds 140 trillion times the mass of water in the Earth's oceans."
+},
+{"id":13,
+"fact":"There is no air or atmosphere in space. Since it is a vacuum, sound waves will have no medium to travel to. That means, no one will hear you scream in space, even if you shout the loudest!"
+},
+{
+    "id":14,
+    "fact":"The hottest planet in the solar system is Venus. This scorching planet has an average surface temperature of about 232 °F (450 °C). Interestingly, Venus is not the closest planet to the Sun, Mercury is."
+},
+{"id":15,
+"fact":"Of all the planets in our solar system (apart from Earth), Mars is the one most likely to be hospitable to life. In 1986, NASA found what they thought may be fossils of microscopic living things in a rock recovered from Mars."},
+{
+    "id":16,
+    "fact":"The sheer size of space makes it impossible to accurately predict just how many stars we have. That number is between 200-400 billion stars and there are estimated to be billions of galaxies so the stars in space really are completely uncountable."
+},
+{
+    "id":17,
+    "fact":"A full NASA space suit costs $12,000,000. Up to now, NASA reuses the spacesuits that were made in 1974. In 2019, the first all-female spacewalk was cancelled because of spacesuit availability."
+},
+{
+    "id":18,
+    "fact":"The Moon has no atmosphere, which means there is no wind to erode the surface and no water to wash the footprints away. This means the footprints of the Apollo astronauts, along with spacecraft prints, rover prints, and discarded material, will be there for millions of years."
+},
+{
+    "id":19,
+    "fact":"One day on Venus is longer than one year. Venus has a slow axis rotation which takes 243 Earth days to complete its day. The orbit of Venus around the Sun is 225 Earth days, making a year on Venus 18 days less than a day on Venus."
+},
+{
+    "id":20,
+    "fact":"In 3.75 billion years the Milky Way and Andromeda galaxies will collide."
+},
+{
+    "id":21,
+    "fact":" If two pieces of the same type of metal touch in space they will permanently bond."},
+{
+    "id":22,
+    "fact":"There is a volcano on Mars three times the size of Everest."
+},
+{
+    "id":23,
+    "fact":" Mercury and Venus are the only planets with no moons. The terrestrial planets Mercury and Venus are not able to hold any moons because of their close distance to the Sun. The Sun’s gravity is much stronger and it will pull any natural satellite orbiting these nearby planets."
+},
+{
+    "id":24,
+    "fact":"Jupiter, the largest planet in the solar system, is composed of hydrogen and helium. These are the same elements that our Sun is made up of. However, Jupiter is not large enough to start nuclear fusion and generate its own energy. If it were around 80 times bigger, it would become a star with low mass."
+},
+{
+    "id":25,
+    "fact":"Pluto is now classified as a dwarf planet, not a planet."
+},
+{
+    "id":26,
+    "fact":"Earth’s Moon is the fifth largest moon in the solar system."
+},
+{
+    "id":27,
+    "fact":" The Sun will engulf Earth 5 billion years from now. The Sun is still a main-sequence star now. It generates energy by turning hydrogen into helium. As it turns into a red giant, it would become bigger and brighter. When our Sun reaches this stage, its expansion would likely reach the orbit of the red planet Mars."
+},
+{
+    "id":28,
+    "fact":"One million Earths can fit inside the Sun."
+},
+{
+    "id":29,
+    "fact":"When you look at a star, what you actually see is how it was in the past. Light takes time to reach Earth. For instance, sunlight takes about 8.5 minutes to reach the Earth’s surface. The bright star, Sirius, for example, is roughly 8.6 light-years away. That means when you see it in the sky tonight, you are actually seeing Sirius the way it was 8.6 years ago!"
+},
+{
+    "id":30,
+    "fact":"Galaxies are either elliptical, spiral, or irregular. Galaxy types are usually classified based on their appearance. Our own Milky Way, for example, is a spiral galaxy. As more galaxies are discovered, we have also learned that they come in all shapes. Aside from the main types, there are also lenticular galaxies and weird-looking peculiar galaxies. "
+},
+{
+    "id":31,
+    "fact":" There are 2,000,000,000,000 galaxies in the observable universe."
+},
+{
+    "id":32,
+    "fact":" Most galaxies have a central black hole."
+},
+{
+    "id":33,
+    "fact":" About 1.4 billion years ago, a day on Earth was just 18 hours 41 minutes long. The Moon is moving away from Earth by around 3.78 centimeters (1.48 inches). This causes changes in the Moon’s tidal effects, which, in turn, slows down Earth’s rotation."
+},
+{
+    "id":34,
+    "fact":"It is possible to see the International Space Station from your backyard. This is something that requires timing though. The ISS becomes visible from Earth when it reflects sunlight. However, during the day, it can easily get lost in the Sun’s glare. The best time to see it, even with the naked eye, is before sunrise and after sunset."
+},
+{
+    "id":35,
+    "fact":" Mars has a reddish sky but bluish twilights."
+},
+{
+    "id":36,
+    "fact":"Shooting stars are space debris that burn up when they enter Earth’s atmosphere."
+},
+{
+    "id":37,
+    "fact":"The color of spacesuits depends on the astronauts’ activity. White suits are for Extravehicular Activity (EVA) when they spacewalk. This color helps reflect the Sun’s heat.The orange Advanced Crew Escape Suits (ACES) are used when astronauts take off or re-enter Earth. The color makes it easier for them to be seen anywhere, especially at sea."
+},
+{
+    "id":38,
+    "fact":"Space is indeed a very cold place. This is close to absolute zero or −459.67 °F (−273.15 °C) which is the lowest temperature ever possible."
+}]
