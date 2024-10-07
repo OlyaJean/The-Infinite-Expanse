@@ -3,8 +3,8 @@
   padding:0;
  box-sizing: border-box;
 }
-body{height:100vh;
-width:100vw;
+body{max-height:100vh;
+max-width:100vw;
 font-family: "Space Mono", monospace;
 overflow: hidden;
 }
