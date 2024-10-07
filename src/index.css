@@ -53,7 +53,8 @@ nav ul li img{
   font-size: 0.7rem;
   float:right
 }
-.imgContainer{background-color: rgb(21, 20, 23);}
+.imgContainer{background-color: rgb(21, 20, 23);
+}
 .spaceImg{width:100vw;
 height:100vh;
 object-fit:contain;
@@ -63,7 +64,7 @@ object-fit:contain;
 .sideBar{
   position: absolute;
   top:0;
-  bottom: 0;
+  bottom:0;
   right:0;
   display: flex;
   gap:20px;
@@ -78,7 +79,7 @@ object-fit:contain;
   translate: 100%;
   z-index: 40;
 }
-.sideBar p{font-size: 0.7rem;}
+.sideBar p{font-size: 0.8rem;}
 
 
 .sideBar img{width:30px;
